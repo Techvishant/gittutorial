@@ -13,5 +13,5 @@ Git command
 (iv) git log --stat   (v) git log --pretty=oneline (vi) git log --pretty=short (vii) git log --pretty=full
 (viii) git log --since=2.days - lastv two days/weeks/months/years  (ix) git log --pretty=format:"%h--%p/an/aN/ae/aE"
 13. commit change - git commit --amend
-14. staged to unstaged - git restore --staged<filename>
-15. if you delete file content from the file - git checkout --<filename>
+14. staged file to unstaged - git restore --staged<filename>
+15. Deleted file recycle - git checkout --<space><filename>
