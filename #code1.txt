@@ -1,0 +1,15 @@
+This is a new text docx after crshed before one  
+Git command
+1. git status 2. git add . or git add --a 3. git log
+4. create blank file - touch file name
+5. direct commit - git commit -a -m"argument"
+6. remove or deleted files using git command- rm filename
+7. rename and move files using git command - mv existing file name and new file name
+8. create a new git file- git init
+9. check for log - git log
+10. git diff cmd- display difference b/w staging and modified files
+11. git diff --staged - differnence b/w staging area and previous commit
+12. git log command - i) git log  (ii) git log -p  (iii) git log -p -2 or -3
+(iv) git log --stat   (v) git log --pretty=oneline (vi) git log --pretty=short (vii) git log --pretty=full
+(viii) git log --since=2.days - lastv two days/weeks/months/years  (ix) git log --pretty=format:"%h--%p/an/aN/ae/aE"
+13. commit change - git commit --amend
