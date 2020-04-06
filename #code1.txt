@@ -15,3 +15,4 @@ Git command
 13. commit change - git commit --amend
 14. staged file to unstaged - git restore --staged<filename>
 15. Deleted file recycle - git checkout --<space><filename>
+16. for matching modified file to Previous commit - git checkout -f
